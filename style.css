@@ -692,7 +692,7 @@ svg{
   width: 400px;
   @media (max-width: 600px) {
     .IITR {
-      width: 200px;
+      width: 100px;
     }
   }
 }
