@@ -686,3 +686,13 @@ svg{
   color: var(--font-color);
   cursor: pointer;
 } 
+
+
+.IITR {
+  width: 400px;
+  @media (max-width: 600px) {
+    .IITR {
+      width: 200px;
+    }
+  }
+}
